@@ -1,0 +1,7 @@
+pull_request_rules:
+  - name: automatic merge if author is GuillaumeOjTests and approved by me
+    conditions:
+      - author=GuillaumeOjTests
+    actions:
+      merge:
+        method: merge
