@@ -4,3 +4,4 @@
 4. Add a commit to the `master` branch.
 5. Add a commit to the `experiment` branch.
 6. Add something on `master`.
+7. Add a commit on the merged `master` branch.
